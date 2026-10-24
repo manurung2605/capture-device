@@ -1,0 +1,11 @@
+{
+  "name": "Direct Camera Capture & Auto-Posting Queue",
+  "description": "High-performance camera & video recorder with auto-posting queue, IMG-VID storage, media feed, and database connectivity.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
